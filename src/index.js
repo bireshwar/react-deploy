@@ -10,7 +10,7 @@ root.render(
     <App />
   </React.StrictMode>
 );
-console.log('33 lacs')
+console.log('33 lacs in Bireshwar account... still counting...')
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
